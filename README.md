@@ -1,6 +1,6 @@
-# Hackathon Spring 2020 Challenge
+# Hackathon Autumn 2020 Challenge
 
-This repository hosts the notebooks for the Hackathon Spring 2020 Challenge event.
+This repository hosts the notebooks for the Hackathon Autumn 2020 Challenge event.
 
 ## Run on Google Colab
 
