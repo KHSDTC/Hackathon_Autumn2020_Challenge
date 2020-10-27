@@ -9,7 +9,7 @@ Notebooks can be accessed in Colab by using the links below:
 **Day 1 Notebooks:**
 
 * [Lab 1 Python Essentials]()
-* [Lab 2 Pandas]()
+* [Lab 2 Pandas & Working with Data]()
 
 **Day 2 Notebooks:**
 
