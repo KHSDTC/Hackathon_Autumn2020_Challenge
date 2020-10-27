@@ -38,7 +38,7 @@ ID,gender,age,race,DMDEDUC2,household_size,height_cm,weight_kg,freq_worried,freq
 93772,F,55,Non-Hispanic Black,3,1,161.9,80.6,never,5,yes,yes,yes,yes,no,more than 5 yrs,no,yes
 93773,M,69,Non-Hispanic White,4,2,176,74.6,few times a year,4,no,yes,no,no,yes,less than 6 months,no,no
 93775,F,47,Non-Hispanic Asian,4,2,150.4,58.5,few times a year,4,yes,yes,yes,no,yes,less than 6 months,no,yes
-93776,F,32,Non-Hispanic Black,3,7,157.8,55.4,few times a year,5,yes,yes,yes,yes,na,1 yr to 2 yrs,no,no
+93776,F,32,Non-Hispanic Black,3,7,157.8,55.4,few times a year,5,yes,yes,yes,yes,NA,1 yr to 2 yrs,no,no
 93780,F,46,Other,3,4,161.7,87.5,never,4,yes,no,yes,yes,yes,6 months to 1 yr,no,yes
 93781,M,32,Other Hispanic,1,1,154.9,61,never,5,no,no,no,no,no,more than 5 yrs,no,no
 93782,F,25,Non-Hispanic Black,4,3,164.7,65.1,monthly,4,yes,no,no,no,no,less than 6 months,no,yes
