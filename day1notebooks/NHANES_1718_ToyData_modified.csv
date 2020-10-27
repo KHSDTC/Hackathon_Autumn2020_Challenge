@@ -1,4 +1,4 @@
-ID,gender,age,race,DMDEDUC2,household_size,height_cm,weight_kg,freq_worried,freq_depressed,controlling_weight,increasing_exercise,reducing_diet_salt,reducing_diet_fat,lifetime_cigarettes_yesnono+,last_visit_dentist,donte_blood_past_yr,drink_dairy_milk
+ID,gender,age,race,DMDEDUC2,household_size,height_cm,weight_kg,freq_worried,freq_depressed,controlling_weight,increasing_exercise,reducing_diet_salt,reducing_diet_fat,lifetime_cigarettes_100+,last_visit_dentist,donte_blood_past_yr,drink_dairy_milk
 93705,F,66,Non-Hispanic Black,2,1,158.3,79.5,few times a year,4,yes,yes,yes,yes,yes,less than 6 months,no,no
 93708,F,66,Non-Hispanic Asian,1,2,150.2,53.5,never,5,yes,no,yes,no,no,6 months to 1 yr,no,yes
 93711,M,56,Non-Hispanic Asian,5,3,170.6,62.1,never,5,yes,no,yes,yes,no,less than 6 months,no,no
