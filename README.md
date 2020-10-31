@@ -8,7 +8,7 @@ Notebooks can be accessed in Colab by using the links below:
 
 **Day 1 Notebooks:**
 
-* [Lab 1 Python Essentials]()
+* [Lab 1 Introduction to Python](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day1notebooks/introduction_to_python.ipynb)
 * [Lab 2 Pandas & Working with Data](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day1notebooks/Pandas_Working-with-Data_class.ipynb)
 
 **Day 2 Notebooks:**
