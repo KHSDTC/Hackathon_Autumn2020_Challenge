@@ -16,3 +16,7 @@ Notebooks can be accessed in Colab by using the links below:
 **Day 2 Notebooks:**
 
 * Lab 3 Introduction to Machine Learning with Scikit-learn (Coming soon)
+
+**Data Science Handbook**
+
+Link to the [book](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
