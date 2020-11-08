@@ -15,7 +15,7 @@ Notebooks can be accessed in Colab by using the links below:
   * [Lab 2 Answers](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day1notebooks/Pandas_Working-with-Data_class_with_answers.ipynb)
 
 **Day 2 Notebooks:**
-
+* [Quiz](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day1notebooks/quiz.ipynb)
 * [Lab 3 Introduction to Machine Learning with Scikit-learn](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day2notebooks/scikit_learn_notebook.ipynb)
 
 **Data Science Handbook**
