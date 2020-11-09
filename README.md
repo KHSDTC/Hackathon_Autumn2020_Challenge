@@ -6,7 +6,7 @@ This repository hosts the notebooks for the Hackathon Autumn 2020 Challenge even
 
 Notebooks can be accessed in Colab by using the links below:
 
-**Day 1 Notebooks:**
+**Day 1:**
 
 * [Presentation](https://github.com/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day1notebooks/Hackathon_session_1_presentation.pdf)
 * [Lab 1 Introduction to Python](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day1notebooks/introduction_to_python.ipynb)
@@ -15,7 +15,7 @@ Notebooks can be accessed in Colab by using the links below:
   * [Lab 2 Introduction slides](https://1drv.ms/p/s!AqnJNUphXemUmpQRc63Aolntio4qDQ?e=ahsyRc)
   * [Lab 2 Answers](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day1notebooks/Pandas_Working-with-Data_class_with_answers.ipynb)
 
-**Day 2 Notebooks:**
+**Day 2:**
 * [Presentation](https://github.com/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day2notebooks/Hackathon_session_2_presentation.pdf)
 * [Quiz](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day1notebooks/quiz.ipynb)
 * [Lab 3 Introduction to Machine Learning with Scikit-learn](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day2notebooks/scikit_learn_notebook.ipynb)
