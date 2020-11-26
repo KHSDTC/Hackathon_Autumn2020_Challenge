@@ -21,6 +21,10 @@ Notebooks can be accessed in Colab by using the links below:
 * [Lab 3 Introduction to Machine Learning with Scikit-learn](https://colab.research.google.com/github/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day2notebooks/scikit_learn_notebook.ipynb)
   * [Lab 3 Slides](https://github.com/KHSDTC/Hackathon_Autumn2020_Challenge/blob/master/day2notebooks/Introduction%20to%20Machine%20Learning.pdf)
 
+**Data Challenge:**
+
+Presented notebooks can be found [here](https://github.com/KHSDTC/Hackathon_Autumn2020_Challenge/tree/master/data_challenge).
+
 **Data Science Handbook**
 
 Link to the [book](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
